@@ -44,7 +44,7 @@ NOTE: WE HAVE NO AFFLICTION WITH PYTHON/MICROSOFT OR ANY OF ITS AFFLIATES.
 ------------------------------------------
 Section 6:
 Install for WINDOWS:
-1.To install: go to Electro.com.
+1.To install: go to https://github.com/Electro-Corp/EC-DOS.
 2.Download the EC-DOS.
 3.Go to python.org and download Python 3.3.5 or anything above.
 4.Follow the download instrucions for Python. When it finishes setup, close python.
